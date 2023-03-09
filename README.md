@@ -1,4 +1,7 @@
 # Messanger Bot
+## Purpose
+* This code is for testing purposes only, i'm not spreading the bot source code, you can read the torurial like this in https://www.npmjs.org/package/fca-unofficial.
+
 ## Login
 * Download Kiwi Browser on googleplay
 * Download this repository https://github.com/libyzxy0/c3c-fbstate
