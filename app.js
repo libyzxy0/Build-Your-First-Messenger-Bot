@@ -2,7 +2,7 @@ const fs = require("fs");
 const { keep_alive } = require("./keep_alive.js");
 const login = require("fca-unofficial");
 
-//Tangina mo 
+//Testing purposes, there is no features
 
 login({ appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8')) }, (err, api) => {
     if (err) return console.error(err);
